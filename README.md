@@ -7,7 +7,7 @@
 
 <p>
 
-### I'd like to show you a little about **me**.
+### I'd like to tell you a little about **me**.
 
   
 <ul>
