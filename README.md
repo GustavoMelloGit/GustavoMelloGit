@@ -27,16 +27,14 @@
 
 
 ## Social medias <a name="socialmedia"></a>
-<code>
-  <a href="https://www.linkedin.com/in/gustavo-marques-mello/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>
-</code>
-<code>
-  <a href="https://www.instagram.com/gugamello29/?hl=pt-br">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
-  </a>
-</code>
+
+<a href="https://www.linkedin.com/in/gustavo-marques-mello/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/gugamello29/?hl=pt-br">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
+</a>
+
 
 ## Frameworks <a name="frameworks"></a>
 <code><img height="32" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></code>
