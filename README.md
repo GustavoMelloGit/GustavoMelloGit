@@ -16,10 +16,6 @@
 <li>Trainee in <a href="https://github.com/lubysoftware">Luby Software</a></li>
 </ul>
 
-# Table of contents
-1. [Languages](#languages)
-2. [Social media](#socialmedia)
-3. [Lib/Frameworks](#frameworks)
 
 ## Main languages <a name="languages"></a>
 <code><img height="32" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/></code>
