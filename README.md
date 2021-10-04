@@ -28,10 +28,10 @@
 
 ## Social medias <a name="socialmedia"></a>
 
-<a href="https://www.linkedin.com/in/gustavo-marques-mello/">
+<a href="https://www.linkedin.com/in/gustavo-marques-mello/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
-<a href="https://www.instagram.com/gugamello29/?hl=pt-br">
+<a href="https://www.instagram.com/gugamello29/?hl=pt-br" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
 </a>
 
