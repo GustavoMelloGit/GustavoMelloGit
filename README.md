@@ -12,8 +12,7 @@
   
 <ul>
 <li>Computer engineering student of Universidade Federal de Ouro Preto - UFOP<br/></li>
-<li>Quality advisor and developer to <a href="https://github.com/visaojr">Visão Tecnologia e Sistemas Jr.</a><br/></li>
-<li>Trainee in <a href="https://github.com/lubysoftware">Luby Software</a></li>
+<li>Trainee at <a href="https://github.com/lubysoftware">Luby Software</a></li>
 </ul>
 
 
