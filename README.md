@@ -38,5 +38,5 @@
 ## Frameworks <a name="frameworks"></a>
 <code><img height="32" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></code>
 <code><img height="32" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactNative"/></code>
-<code><img height="32" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJs"/></code>
-<code><img height="32" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="Cypress"/></code>
+<code><img height="32" src="https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJs"/></code>
+<code><img height="32" src="https://img.shields.io/badge/-cypress-20232A?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="Cypress"/></code>
