@@ -12,7 +12,7 @@
   
 <ul>
 <li>Computer engineering student of Universidade Federal de Ouro Preto - UFOP<br/></li>
-<li>Trainee at <a href="https://github.com/lubysoftware">Luby Software</a></li>
+<li>Junior Front-end developer at <a href="https://github.com/lubysoftware">Luby Software</a></li>
 </ul>
 
 
