@@ -12,7 +12,7 @@
   
 <ul>
 <li>Information Systems student of Universidade Federal de Ouro Preto - UFOP<br/></li>
-<li>Junior Front-end developer at <a href="https://github.com/lubysoftware">Luby Software</a></li>
+<li>Mid-level Front-end developer at Sticky</li>
 </ul>
 
 
