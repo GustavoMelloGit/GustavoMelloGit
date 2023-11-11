@@ -17,12 +17,10 @@
 
 
 ## Main languages <a name="languages"></a>
-<code><img height="32" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/></code>
 <code><img height="32" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/></code>
 <code><img height="32" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/></code>
 <code><img height="32" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></code>
 <code><img height="32" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></code>
-<code><img height="32" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></code>
 
 
 ## Social medias <a name="socialmedia"></a>
@@ -42,4 +40,3 @@
 <code><img height="32" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></code>
 <code><img height="32" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactNative"/></code>
 <code><img height="32" src="https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJs"/></code>
-<code><img height="32" src="https://img.shields.io/badge/-cypress-20232A?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="Cypress"/></code>
