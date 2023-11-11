@@ -33,6 +33,9 @@
 <a href="https://www.instagram.com/gugamello29/?hl=pt-br" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
 </a>
+<a href="https://www.instagram.com/gugamello29/?hl=pt-br" target="_blank">
+  <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab"/>
+</a>
 
 
 ## Frameworks <a name="frameworks"></a>
