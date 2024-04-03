@@ -11,7 +11,7 @@
 
   
 <ul>
-<li>Information Systems student of Universidade Federal de Ouro Preto - UFOP<br/></li>
+<li>Ex-student of Information Systems at Universidade Federal de Ouro Preto - UFOP<br/></li>
 <li>Senior Fullstack Developer at NuVidio</li>
 </ul>
 
