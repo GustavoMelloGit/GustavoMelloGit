@@ -1,5 +1,3 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=GustavoMelloGit&show_icons=true&theme=bear">
-
 ### Hello there, i am Gustavo,
 ##  And welcome to my Profile! 😁
 
