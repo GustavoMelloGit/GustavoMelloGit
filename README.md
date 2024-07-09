@@ -10,7 +10,7 @@
   
 <ul>
 <li>Ex-student of Information Systems at Universidade Federal de Ouro Preto - UFOP<br/></li>
-<li>Senior Fullstack Developer at NuVidio</li>
+<li>Technical Lead at NuVidio</li>
 </ul>
 
 
