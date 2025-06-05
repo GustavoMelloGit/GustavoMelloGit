@@ -9,8 +9,10 @@
 
   
 <ul>
+<li>4+ years of experience as a Developer</li>
+<li>Experienced on fast-paced environments</li>
 <li>Ex-student of Information Systems at Universidade Federal de Ouro Preto - UFOP<br/></li>
-<li>Technical Lead at NuVidio</li>
+<li>Technical Lead at Taya</li>
 </ul>
 
 
