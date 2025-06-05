@@ -9,10 +9,11 @@
 
   
 <ul>
-<li>4+ years of experience as a Developer</li>
-<li>Experienced on fast-paced environments</li>
-<li>Ex-student of Information Systems at Universidade Federal de Ouro Preto - UFOP<br/></li>
-<li>Technical Lead at Taya</li>
+<li>4+ years of experience as a Software Developer;</li>
+<li>Currently working as: Technical Lead at Taya;</li>
+<li>Passionate about software architecture;</li>
+<li>Experienced on fast-paced environments;</li>
+<li>Ex-student of Information Systems at Universidade Federal de Ouro Preto - UFOP</li>
 </ul>
 
 
