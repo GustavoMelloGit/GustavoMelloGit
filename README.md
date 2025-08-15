@@ -13,7 +13,8 @@
 <li>Currently working as: Technical Lead at Taya;</li>
 <li>Passionate about software architecture;</li>
 <li>Experienced on fast-paced environments;</li>
-<li>Ex-student of Information Systems at Universidade Federal de Ouro Preto - UFOP</li>
+<li>Graduated in systems analysis and development - Universidade Anhembi Morumbi</li>
+<li>Ex-student of Information Systems at Universidade Federal de Ouro Preto - Universidade Federal de Ouro Preto</li>
 </ul>
 
 
